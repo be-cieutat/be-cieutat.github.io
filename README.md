@@ -1,2 +1,2 @@
 # be-cieutat.github.io
-Repo for my github webpage 
+Repo for my Github Pages website 
